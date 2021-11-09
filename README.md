@@ -1,5 +1,12 @@
-# chatbot-pedido-Funciona-100-
-Chatbot utilizando a biblioteca VENON + Node
+# chatbot-pedido-Funciona-100%
 
-executar na pasta SRC/node index.s
+Chatbot PEDIDO utilizando a biblioteca VENON + Node
+
+clone o repositório
+
+Instale as dependencias ( npm i )
+
+cd chatbot/src
+
+Executar na pasta SRC/node index.s
 
