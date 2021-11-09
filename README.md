@@ -8,5 +8,5 @@ Instale as dependencias ( npm i )
 
 cd chatbot/src
 
-Executar na pasta SRC/node index.s
+Executar na pasta SRC/node index.js
 
