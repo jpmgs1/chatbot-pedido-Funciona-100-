@@ -1,4 +1,4 @@
-# chatbot-pedido-Funciona-100%
+# Chatbot Pedido Funciona 100%
 
 Chatbot PEDIDO utilizando a biblioteca VENON + Node
 
