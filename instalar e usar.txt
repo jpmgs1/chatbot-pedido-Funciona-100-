@@ -1,4 +1,0 @@
-1º npm i
-2º npm audit fix
-2º cd src
-3º node index.js
